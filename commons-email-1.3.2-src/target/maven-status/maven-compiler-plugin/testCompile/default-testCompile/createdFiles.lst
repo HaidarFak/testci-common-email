@@ -1,0 +1,12 @@
+org\apache\commons\mail\GetSentDateTest.class
+org\apache\commons\mail\EmailTestSuite.class
+org\apache\commons\mail\BuildMimeMessageTest.class
+org\apache\commons\mail\GetMailSessionTest.class
+org\apache\commons\mail\GetSocketConnectionTimeoutTest.class
+org\apache\commons\mail\EmailTest.class
+org\apache\commons\mail\AddBccTest.class
+org\apache\commons\mail\AddCcTest.class
+org\apache\commons\mail\AddReplyToTest.class
+org\apache\commons\mail\SetFromTest.class
+org\apache\commons\mail\GetHostNameTest.class
+org\apache\commons\mail\AddHeaderTest.class
