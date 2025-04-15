@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="org.apache.commons.mail.SetFromTest" time="0.0" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="org.apache.commons.mail.GetSocketConnectionTimeoutTest" time="0.0" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -17,7 +17,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11\bin"/>
-    <property name="sun.java.command" value="C:\Users\socia\AppData\Local\Temp\surefire12276884435287621241\surefirebooter-20250414225713872_3.jar C:\Users\socia\AppData\Local\Temp\surefire12276884435287621241 2025-04-14T22-57-13_603-jvmRun1 surefire-20250414225713872_1tmp surefire_0-20250414225713872_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\socia\AppData\Local\Temp\surefire11062292483256430272\surefirebooter-20250414231110284_3.jar C:\Users\socia\AppData\Local\Temp\surefire11062292483256430272 2025-04-14T23-11-10_010-jvmRun1 surefire-20250414231110284_1tmp surefire_0-20250414231110284_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\socia\OneDrive\Documents\GitHub\testci-common-email\commons-email-1.3.2-src\target\test-classes;C:\Users\socia\OneDrive\Documents\GitHub\testci-common-email\commons-email-1.3.2-src\target\classes;C:\Users\socia\.m2\repository\javax\mail\mail\1.4.5\mail-1.4.5.jar;C:\Users\socia\.m2\repository\javax\activation\activation\1.1.1\activation-1.1.1.jar;C:\Users\socia\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\socia\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\socia\.m2\repository\commons-io\commons-io\2.2\commons-io-2.2.jar;C:\Users\socia\.m2\repository\org\subethamail\subethasmtp\3.1.7\subethasmtp-3.1.7.jar;C:\Users\socia\.m2\repository\org\slf4j\slf4j-api\1.6.1\slf4j-api-1.6.1.jar;C:\Users\socia\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar;C:\Users\socia\.m2\repository\org\powermock\powermock-module-junit4\1.4.12\powermock-module-junit4-1.4.12.jar;C:\Users\socia\.m2\repository\org\powermock\powermock-module-junit4-common\1.4.12\powermock-module-junit4-common-1.4.12.jar;C:\Users\socia\.m2\repository\org\powermock\powermock-core\1.4.12\powermock-core-1.4.12.jar;C:\Users\socia\.m2\repository\org\javassist\javassist\3.16.1-GA\javassist-3.16.1-GA.jar;C:\Users\socia\.m2\repository\org\powermock\powermock-reflect\1.4.12\powermock-reflect-1.4.12.jar;C:\Users\socia\.m2\repository\org\powermock\powermock-api-easymock\1.4.12\powermock-api-easymock-1.4.12.jar;C:\Users\socia\.m2\repository\org\powermock\powermock-api-support\1.4.12\powermock-api-support-1.4.12.jar;C:\Users\socia\.m2\repository\org\easymock\easymock\3.1\easymock-3.1.jar;C:\Users\socia\.m2\repository\cglib\cglib-nodep\2.2.2\cglib-nodep-2.2.2.jar;C:\Users\socia\.m2\repository\org\objenesis\objenesis\1.2\objenesis-1.2.jar;C:\Users\socia\.m2\repository\org\slf4j\slf4j-jdk14\1.6.1\slf4j-jdk14-1.6.1.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -33,7 +33,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\socia\AppData\Local\Temp\surefire12276884435287621241\surefirebooter-20250414225713872_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\socia\AppData\Local\Temp\surefire11062292483256430272\surefirebooter-20250414231110284_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.26+7-LTS-187"/>
@@ -61,5 +61,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="55.0"/>
   </properties>
-  <testcase name="testSetFrom" classname="org.apache.commons.mail.SetFromTest" time="0.0"/>
+  <testcase name="testGetSocketConnectionTimeout" classname="org.apache.commons.mail.GetSocketConnectionTimeoutTest" time="0.0"/>
 </testsuite>
